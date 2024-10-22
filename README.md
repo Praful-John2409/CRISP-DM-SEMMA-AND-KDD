@@ -29,7 +29,7 @@ Here are links to Medium articles that correspond to each project:
 
 - [Advanced House Pricing Prediction](#)
 - [Breast Cancer Prediction](https://medium.com/@praful.john2409/predicting-breast-cancer-outcomes-a-data-driven-approach-using-the-kdd-methodology-5623f273d76f)
-- [Flight Price Prediction](#)
+- [Flight Price Prediction](https://medium.com/@praful.john2409/medium-article-predicting-airplane-ticket-prices-with-semma-methodology-2fed75623ab5)
 
 ## Getting Started
 
