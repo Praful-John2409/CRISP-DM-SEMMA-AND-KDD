@@ -26,7 +26,7 @@ Welcome to the **CRISP-DM, SEMMA, and KDD** repository! This project showcases d
 Here are links to Medium articles that correspond to each project:
 
 - [Advanced House Pricing Prediction](#)
-- [Breast Cancer Prediction](#)
+- [Breast Cancer Prediction](https://medium.com/@praful.john2409/predicting-breast-cancer-outcomes-a-data-driven-approach-using-the-kdd-methodology-5623f273d76f)
 - [Flight Price Prediction](#)
 
 ## Getting Started
