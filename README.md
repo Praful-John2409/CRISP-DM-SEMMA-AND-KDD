@@ -59,7 +59,7 @@ You can explore all the Colab notebooks for the CRISP-DM, SEMMA, and KDD methodo
 
 Here are links to the Medium articles corresponding to each project. These articles provide a detailed walkthrough of each methodology, including the insights generated during the analysis:
 
-- [Advanced House Pricing Prediction](#)  
+- [Advanced House Pricing Prediction](https://medium.com/@praful.john2409/predicting-house-prices-with-the-crisp-dm-methodology-a-data-driven-journey-d6a4e00cd44a)  
 - [Breast Cancer Prediction](https://medium.com/@praful.john2409/predicting-breast-cancer-outcomes-a-data-driven-approach-using-the-kdd-methodology-5623f273d76f)  
 - [Flight Price Prediction](https://medium.com/@praful.john2409/medium-article-predicting-airplane-ticket-prices-with-semma-methodology-2fed75623ab5)  
 
