@@ -20,7 +20,7 @@ Welcome to the **CRISP-DM, SEMMA, and KDD** repository! This project showcases d
     - **Advanced House Pricing Prediction Model** (CRISP-DM)
     - **Breast Cancer Prediction** (KDD)
     - **Flight Price Prediction** (SEMMA)
-    - 
+       
 ## Colab link [click here](https://drive.google.com/drive/folders/1_8-ydRXdqqz5Eii9hUnqbDWtIVsh1KyP?usp=sharing)
 
 ## Medium Articles
